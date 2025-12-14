@@ -7,7 +7,7 @@ app.use(cors());
 app.use(express.json());
 
 // ✅ PASTE YOUR OPENAI API KEY HERE (KEEP IT SECRET)
-const OPENAI_KEY = "PASTE_YOUR_API_KEY_HERE";  // ← Replace with your key
+const OPENAI_KEY = "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";  // ← Replace with your key
 
 // User system
 const users = { admin: "1234", guest: "guest" };
