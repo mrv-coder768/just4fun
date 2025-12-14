@@ -94,7 +94,7 @@
 <body>
 
 <div class="container" id="container">
-    <h2>Are yiu pig? 🐷</h2>
+    <h2>Are you pig? 🐷</h2>
     <button id="yes" onclick="showPopup()">Yes</button>
     <button id="no">No</button>
 </div>
